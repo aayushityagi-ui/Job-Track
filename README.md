@@ -87,6 +87,7 @@ npm run dev
 
 ## Author
 Aayushi Tyagi
+## Dashboard Preview
 
-**Ayushi Tyagi**
+![JobTrack Dashboard](jobtrack-dashboard.png)
 
